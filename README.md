@@ -26,7 +26,6 @@ src/
 │   ├── Baseclass/          # Base configuration and WebDriver setup
 │   ├── Hooks/              # Cucumber hooks for setup/teardown with screenshots
 │   ├── ReusableFunctions/  # Selenium wrapper methods and utilities
-│   └── Utilities/          # Excel utility for data-driven testing
 └── test/
     ├── java/com/
     │   ├── Pages/          # Page Object Model classes with PageFactory
